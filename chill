@@ -1,0 +1,63 @@
+{
+    "room": "DisStream",
+        "author": "WorstUdyrDE",
+        "css": "https://rawgit.com/WorstUdyrDE/plug/master/style.css",
+        "rules": {
+        "allowAutorespond": true,
+            "allowAutowoot": true,
+            "allowAutojoin": true,
+            "allowAutograb": true,
+            "allowSmartVote": true,
+            "allowEmotes": true,
+            "allowShowingMehs": true,
+            "forceSmartVote": false
+    },
+        "ccc": {
+        "admin": null,
+            "ambassador": null,
+            "host": "#2582da",
+            "cohost": null,
+            "manager": null,
+            "bouncer": null,
+            "rdj": null,
+            "subscriber": null,
+            "friend": null,
+            "user": null
+    },
+        "images": {
+        "background": null,
+            "playback": null,
+            "admin": null,
+            "ambassador": null,
+            "host": "http://i.imgur.com/Yd2GSeE.png",
+            "cohost": "http://i.imgur.com/xdBV63C.png",
+            "manager": "http://i.imgur.com/xdBV63C.png",
+            "bouncer": null,
+            "rdj": null,
+            "subscriber": null
+    },
+        "autocomplete": [],
+
+        "emotes": {
+        "banned": "http://i.imgur.com/EOuLASw.gif",
+            "nokappa": "http://i.imgur.com/S3DfdMO.png",
+            "dance1": "http://i.imgur.com/gHyn3tj.gif",
+            "dance2": "http://i.imgur.com/KWNA9jv.gif",
+            "dance3": "http://i.imgur.com/5YkWrxS.gif",
+            "bugdj": "http://i.imgur.com/pj4qROD.png",
+            "dwana10": "http://i.imgur.com/eqigqfy.jpg",
+            "datface": "http://i.imgur.com/uhUIyqA.png",
+            "rojoaha": "http://i.imgur.com/SY284fP.png",
+            "bawicieto": "http://i.imgur.com/vXjcxkw.png",
+            "tenczowydis": "http://i.snag.gy/IT1kY.jpg",
+            "disZombie": "http://i.imgur.com/37qOJ4Y.png",
+            "aha": "http://i.imgur.com/VZLbTR3.png",
+            "aha2": "http://i.imgur.com/om6K0Mh.png",
+            "dtv": "http://i.imgur.com/eOIXZJ8.png",
+            "pinkmousedance": "http://i.imgur.com/3yWY1UA.gif",
+            "dance4": "http://i.imgur.com/fI5Y4MQ.gif",
+            "dance5": "http://i.imgur.com/tI0B9qQ.gif",
+            "dance6": "http://i.imgur.com/DI7csEZ.gif",
+            "slot_seven": "http://whitneyontheweb.com/ChemicalCowboys/7.png"
+    }
+}
