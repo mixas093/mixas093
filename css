@@ -1,11 +1,23 @@
 @import url(https://fonts.googleapis.com/css?family=Patrick+Hand&subset=latin,latin-ext);
 
 /* Mixas093 */
- .id-5421389 > .badge-box > i.bdg {
-    background-image: url("https://s-media-cache-ak0.pinimg.com/custom_covers/30x30/572590608812788331_1407623061.jpg");
+ .id-10607990 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/3kPmnVI.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+}
+/*Hasztagg*/
+ .id-6598771 > .msg > .from:before {
+    content: url("http://i.imgur.com/bZ37wsM.png") !important;
+    float: left;
+    margin: 0px 3px 0px 0px;
+}
+/*serce obok nicku*/
+ .id-10764385 > .msg > .from:before, .id-10607990 > .msg > .from:before, .id-6315115 > .msg > .from:before, .id-5421389 > .msg > .from:before {
+    content: url("http://i.imgur.com/Ev9MdsC.png") !important;
+    float: left;
+    margin: 1px 3px 0px 0px;
 }
 /* DTVbot */
  .id-7049112 > .msg > .from > i.icon-chat-host {
@@ -54,11 +66,11 @@
  #room-bar * {
     font-size: 0px;
 }
-/*Dzieki Dawid4045 za wyjebanie tla spod napisu :D */
+/*Kambario pav.*/
  #room-name {
     top: 6px;
     margin-left: 13px;
-    background: url("http://i.imgur.com/oEwUwv1.png") no-repeat top left content-box;
+    background: url("http://webresizer.com/session/dl98GfnvpNJE5LMPvqMLmJVC3Al45Bo3/original.png?1457033854.67782") no-repeat top left content-box;
     height: 42px;
 }
 /* To co jest tu od poczatku  */
