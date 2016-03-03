@@ -1,6 +1,6 @@
 {
-    "room": "DisStream",
-        "author": "WorstUdyrDE",
+    "room": "ChillLT",
+        "author": "Mixas093",
         "css": "https://rawgit.com/WorstUdyrDE/plug/master/style.css",
         "rules": {
         "allowAutorespond": true,
@@ -33,7 +33,7 @@
             "cohost": "http://i.imgur.com/xdBV63C.png",
             "manager": "http://i.imgur.com/xdBV63C.png",
             "bouncer": null,
-            "rdj": null,
+            "rdj": "http://prntscr.com/aarj68",
             "subscriber": null
     },
         "autocomplete": [],
