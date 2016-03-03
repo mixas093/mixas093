@@ -1,8 +1,76 @@
 @import url(https://fonts.googleapis.com/css?family=Patrick+Hand&subset=latin,latin-ext);
 
 /* Mixas093 */
+ .id-9092608 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/pUYGygq.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* Milo Poznac */
+ .id-6309639 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/SqFKQCQ.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/*Sisen */
+ .id-5421389 > .badge-box > i.bdg {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/custom_covers/30x30/572590608812788331_1407623061.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* Sksawery */
+ .id-6390265 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/Q0UDyNL.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* Wata  */
+ .id-6315115 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/EdQBfwL.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* Dawid4045  */
+ .id-8502399 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/5SN6owa.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* GreenaSnow */
  .id-10607990 > .badge-box > i.bdg {
     background-image: url("http://i.imgur.com/3kPmnVI.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* Nevcio */
+ .id-6615469 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/RrNM2v4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* Jukerr */
+ .id-7887610 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/KsLeJbN.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* Wumekk */
+ .id-5390290 > .msg > .from:before {
+    content: url("http://puu.sh/jLKQx/bcbca1e608.png") !important;
+    float: left;
+    margin: 1px 4px 0px 0px;
+}
+.id-5390290 > .badge-box > i.bdg {
+    background-image: url("http://puu.sh/kdhPZ/4a63b12e06.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -66,11 +134,11 @@
  #room-bar * {
     font-size: 0px;
 }
-/*Kambario pav.*/
+/*Dzieki Dawid4045 za wyjebanie tla spod napisu :D */
  #room-name {
     top: 6px;
     margin-left: 13px;
-    background: url("http://webresizer.com/session/dl98GfnvpNJE5LMPvqMLmJVC3Al45Bo3/original.png?1457033854.67782") no-repeat top left content-box;
+    background: url("http://i.imgur.com/oEwUwv1.png") no-repeat top left content-box;
     height: 42px;
 }
 /* To co jest tu od poczatku  */
