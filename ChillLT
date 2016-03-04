@@ -1,6 +1,6 @@
 {
-    "room": "DisStream",
-        "author": "WorstUdyrDE",
+    "room": "ChillLT",
+        "author": "Mixas093",
         "css": "https://rawgit.com/WorstUdyrDE/plug/master/style.css",
         "rules": {
         "allowAutorespond": true,
@@ -15,17 +15,17 @@
         "ccc": {
         "admin": null,
             "ambassador": null,
-            "host": "#2582da",
-            "cohost": null,
-            "manager": null,
-            "bouncer": null,
+            "host": "#FF0000",
+            "cohost": "#670808",
+            "manager": "#002FFF",
+            "bouncer": "#00FF1E",
             "rdj": null,
             "subscriber": null,
             "friend": null,
             "user": null
     },
         "images": {
-        "background": "https://cdn.radiant.dj/rcs/bg/2k15nyc.jpg",
+        "background": "http://i.imgur.com/EFXFnql.png",
             "playback": null,
             "admin": null,
             "ambassador": null,
@@ -33,7 +33,7 @@
             "cohost": "http://i.imgur.com/xdBV63C.png",
             "manager": "http://i.imgur.com/xdBV63C.png",
             "bouncer": null,
-            "rdj": null,
+            "rdj": "http://i.imgur.com/7W3B6XC.png?1",
             "subscriber": null
     },
         "autocomplete": [],
