@@ -1,6 +1,6 @@
 {
-    "room": "ChillLT",
-        "author": "Mixas093",
+    "room": "DisStream",
+        "author": "WorstUdyrDE",
         "css": "https://rawgit.com/WorstUdyrDE/plug/master/style.css",
         "rules": {
         "allowAutorespond": true,
@@ -29,11 +29,11 @@
             "playback": null,
             "admin": null,
             "ambassador": null,
-            "host": null,
-            "cohost": null,
-            "manager": null,
+            "host": "http://i.imgur.com/Yd2GSeE.png",
+            "cohost": "http://i.imgur.com/xdBV63C.png",
+            "manager": "http://i.imgur.com/xdBV63C.png",
             "bouncer": null,
-            "rdj": "http://i.imgur.com/Ib3HbwE.png?1",
+            "rdj": null,
             "subscriber": null
     },
         "autocomplete": [],
