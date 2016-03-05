@@ -15,17 +15,17 @@
         "ccc": {
         "admin": null,
             "ambassador": null,
-            "host": "#FF0000",
-            "cohost": "#670808",
-            "manager": "#002FFF",
-            "bouncer": "#00FF1E",
+            "host": "#2582da",
+            "cohost": null,
+            "manager": null,
+            "bouncer": null,
             "rdj": null,
             "subscriber": null,
             "friend": null,
             "user": null
     },
         "images": {
-        "background": null,
+        "background": "https://cdn.radiant.dj/rcs/bg/2k15nyc.jpg",
             "playback": null,
             "admin": null,
             "ambassador": null,
@@ -33,7 +33,7 @@
             "cohost": null,
             "manager": null,
             "bouncer": null,
-            "rdj": "http://i.imgur.com/7W3B6XC.png?1",
+            "rdj": "http://i.imgur.com/Ib3HbwE.png?1",
             "subscriber": null
     },
         "autocomplete": [],
