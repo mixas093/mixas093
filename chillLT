@@ -1,7 +1,7 @@
 {
     "room": "ChillLT",
         "author": "Mixas093",
-        "css": "https://rawgit.com/mixas093/mixas093/master/css",
+        "css": "https://rawgit.com/WorstUdyrDE/plug/master/style.css",
         "rules": {
         "allowAutorespond": true,
             "allowAutowoot": true,
