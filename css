@@ -1,0 +1,399 @@
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand&subset=latin,latin-ext);
+
+/* KamilSlimak12 */
+ .id-9092608 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/pUYGygq.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* Milo Poznac */
+ .id-6309639 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/SqFKQCQ.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/*Sisen */
+ .id-5421389 > .badge-box > i.bdg {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/custom_covers/30x30/572590608812788331_1407623061.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* Sksawery */
+ .id-6390265 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/Q0UDyNL.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* Wata  */
+ .id-6315115 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/EdQBfwL.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* Dawid4045  */
+ .id-8502399 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/5SN6owa.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* GreenaSnow */
+ .id-10607990 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/3kPmnVI.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* Nevcio */
+ .id-6615469 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/RrNM2v4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* Jukerr */
+ .id-7887610 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/KsLeJbN.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* Wumekk */
+ .id-5390290 > .msg > .from:before {
+    content: url("http://puu.sh/jLKQx/bcbca1e608.png") !important;
+    float: left;
+    margin: 1px 4px 0px 0px;
+}
+.id-5390290 > .badge-box > i.bdg {
+    background-image: url("http://puu.sh/kdhPZ/4a63b12e06.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/*Hasztagg*/
+ .id-6598771 > .msg > .from:before {
+    content: url("http://i.imgur.com/bZ37wsM.png") !important;
+    float: left;
+    margin: 0px 3px 0px 0px;
+}
+/*serce obok nicku*/
+ .id-10764385 > .msg > .from:before, .id-10607990 > .msg > .from:before, .id-6315115 > .msg > .from:before, .id-5421389 > .msg > .from:before {
+    content: url("http://i.imgur.com/Ev9MdsC.png") !important;
+    float: left;
+    margin: 1px 3px 0px 0px;
+}
+/* DTVbot */
+ .id-7049112 > .msg > .from > i.icon-chat-host {
+    background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
+}
+#user-lists .list.room .user.id-7049112 .icon-chat-cohost {
+    background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
+}
+#waitlist .list .user.id-7049112 .name .icon-chat-cohost {
+    background: url("http://i.imgur.com/xEQvJUh.png") no-repeat !important;
+}
+.id-7049112 > .badge-box > i.bdg {
+    background-image: url("http://i.imgur.com/o7fbmHg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#user-rollover.id-7049112 .badge-box > i.bdg
+{
+    border-radius:       6px;
+    background-image:    url("http://i.imgur.com/o7fbmHg.png");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+/* WGM ikony */
+ #woot i.icon {
+    background-image: url("http://i.imgur.com/u5iwPJD.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#grab i.icon {
+    background-image: url("http://i.imgur.com/hrUd7ho.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#meh i.icon {
+    background-image: url("http://i.imgur.com/4wKIcKK.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/*logo */
+ #room-bar * {
+    font-size: 0px;
+}
+/*Dzieki Dawid4045 za wyjebanie tla spod napisu :D */
+ #room-name {
+    top: 6px;
+    margin-left: 13px;
+    background: url("http://i.imgur.com/456DsFW.png?1") no-repeat top left content-box;
+    height: 42px;
+}
+/* To co jest tu od poczatku  */
+ #user-lists .list.staff .group {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 1) 100%) !important;
+}
+#footer {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0, rgba(0, 0, 0, 0.75) 100%);
+}
+#playlist-button {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0, rgba(255, 255, 255, 0) 100%)
+}
+#app-header {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.25) 0, rgba(0, 0, 0, 0.75) 100%);
+}
+#store-button {
+    background: linear-gradient(to bottom, #FF0000 0, #A00000 100%);
+}
+#plug-dj {
+    background: linear-gradient(to bottom, #0268AC 0, #02225C 100%);
+}
+.header-panel-button.selected {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.25) 0, rgba(255, 255, 255, 0.06) 100%);
+}
+#plug-menu {
+    background: rgba(40, 44, 53, 0.94) !important;
+}
+#plug-menu .legal {
+    background: rgba(68, 74, 89, 0.46) !important;
+}
+#settings {
+    background: rgba(10, 10, 10, 0.89) !important;
+}
+#user-lists .list .user:hover {
+    background: linear-gradient(to right, rgba(255, 118, 118, 0) 0, rgba(255, 0, 194, 0.27) 100%) !important;
+}
+#waitlist .list .user {
+    background: linear-gradient(to right, rgba(255, 118, 118, 0) 0, rgba(255, 0, 194, 0.13) 100%) !important;
+}
+.app-right .friends {
+    background: none !important;
+}
+#settings .header {
+    background: rgba(28, 31, 37, 0.78) !important;
+}
+@media (max-width: 1600px) {
+    #room .app-right {
+        background: linear-gradient(to right, rgba(0, 0, 0, 0.70) 0, rgba(0, 0, 0, 1) 100%);
+    }
+}
+#chat .message:nth-child(2n+1), #chat .mention:nth-child(2n+1), #chat .skip:nth-child(2n+1), #chat .moderation:nth-child(2n+1), #chat .emote:nth-child(2n+1), #chat .update:nth-child(2n+1), #chat .welcome:nth-child(2n+1) {
+    background-color: rgba(17, 19, 23, 0.32);
+    -webkit-animation:fadein 0.25s;
+    -moz-animation:fadein 0.25s;
+    -ms-animation:fadein 0.25s;
+    -o-animation:fadein 0.25s;
+    animation:fadein 0.25s;
+}
+#chat .emote, #chat .mention, #chat .message, #chat .moderation, #chat .skip, #chat .system, #chat .update, #chat .welcome {
+    -webkit-animation:fadein 0.25s;
+    -moz-animation:fadein 0.25s;
+    -ms-animation:fadein 0.25s;
+    -o-animation:fadein 0.25s;
+    animation:fadein 0.25s;
+}
+#chat .mention {
+    font-weight: 700;
+    /*padding-left: 25px;*/
+    border-left: #7681FF 2px solid;
+}
+#chat .emote .from {
+  color: #ac76ff!important
+}
+
+#chat .emote {
+  border-left: rgba(174, 69, 189, 1) 3px solid!important;
+  background-color: rgba(76, 93, 119, .22)!important
+}
+
+#chat-messages .emote .icon {}
+
+#chat .emote .text {
+  font-style: normal;
+  font-weight: bold;
+  color: #ac76ff
+}
+#footer {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0, rgba(0, 0, 0, 0.75) 100%);
+}
+.social-menu .icon-twitter, .social-menu .icon-facebook {
+    opacity: 1;
+}
+#playlist-panel {
+    background: rgba(17, 19, 23, 0.9);
+}
+#playlist-menu {
+    background: rgba(28, 31, 37, 0.67);
+}
+#search {
+    background: rgba(50, 55, 66, 0.58);
+}
+#search-bar {
+    background: rgba(17, 19, 23, 0.77);
+}
+#filter-bar {
+    background: rgba(17, 19, 23, 0.77);
+}
+#playlist-edit-button {
+    background: rgba(85, 93, 112, 0.75);
+}
+#playlist-shuffle-button {
+    background: rgba(68, 74, 89, 0.75);
+}
+#playlist-delete-button {
+    background: rgba(50, 55, 66, 0.75);
+}
+#user-panel .score {
+    background: rgba(28, 31, 37, 0.59);
+}
+#vote .crowd-response.disabled .bottom {
+    background: #222224;
+}
+#dj-button {
+    background-color: rgba(0, 0, 0, 0.35) !important
+}
+#dj-button.is-locked .left, #dj-button.is-full .left, #vote .crowd-response.disabled .bottom {
+    background: rgba(68, 74, 89, 0.75)
+}
+#dj-button.is-quit .left, #dj-button.is-leave .left, #playlist-delete-button:hover: {
+    background: linear-gradient(to bottom, rgba(244, 107, 64, 0.74) 0, rgba(240, 79, 48, 0.75) 100%)
+}
+#vote .crowd-response {
+    background: #222224;
+}
+#woot .bottom, #woot.selected {
+    background: #90ad2f;
+}
+#grab .bottom, #grab.selected {
+    background: #aa74ff;
+}
+#meh .bottom, #meh.selected {
+    background: #c42e3b;
+}
+.row:hover {
+    background: linear-gradient(to right, rgba(255, 118, 118, 0) 0, rgba(41, 48, 124, 0.27) 100%) !important;
+}
+#chat .mention .msg {
+    background: linear-gradient(to right, rgba(255, 118, 118, 0) 0, rgba(41, 48, 124, 0.27) 100%) !important;
+}
+#chat-input {
+    border-radius: 50px
+}
+#dashboard {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.25) 0, rgba(0, 0, 0, 0.75) 100%);
+}
+#dashboard .search {
+    border-radius: 25px;
+}
+#footer-user .back {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.25) 0, rgba(0, 0, 0, 0.75) 100%);
+}
+#user-view {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.247059) 0px, rgba(0, 0, 0, 0.74902) 0%);
+}
+#user-menu {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.247059) 0px, rgba(0, 0, 0, 0.74902) 100%);
+}
+#app-menu .list {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.247059) 0px, rgba(0, 0, 0, 0.74902) 100%);
+}
+#app-menu .button {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.247059) 0px, rgba(0, 0, 0, 0.74902) 100%);
+}
+#chat .cm .icon-chat-manager + .un, #user-lists .group.manager ~ .user, #user-lists .list.room .user .icon-chat-manager + .name, #user-rollover.is-staff .info .role .icon-chat-manager + span, #dialog-user-role .role-menu .selected .icon-chat-manager + span, #dialog-user-role .role-menu .menu .manager span {
+    text-shadow: 0 0 10px #00FFFF;
+}
+#footer .bar-button .section span {
+    text-shadow: rgba(255, 255, 255, 0.498039) 0px 0px 15px, rgba(255, 255, 255, 0.498039) 0px 0px 10px;
+}
+#footer .bar-button .section:last-child span {
+    text-shadow: rgba(255, 255, 255, 0.498039) 0px 0px 15px, rgba(255, 255, 255, 0.498039) 0px 0px 10px;
+}
+#room-bar .icon-room {
+    display: none;
+}
+/*Inne zmiany wygladu czcionek i ogolnie kurwa WINCYJ CSS-a*/
+ #volume .slider {
+    display: block !Important;
+}
+#vote .crowd-response .top .label { 
+	font-family: 'Patrick Hand', cursive;
+	font-size: 18px;
+	margin-left: 4px;
+}
+#woot-rs,
+#grab-rs,
+#meh-rs {
+    font-family: 'Patrick Hand', cursive !important;
+    font-weight: 400;
+    font-size: 17px;
+}
+#history-button .icon, #footer-user .buttons .button.settings .icon {
+    -moz-transition: transform 1s ease-in-out;
+    -webkit-transition: transform 1s ease-in-out;
+    -o-transition: transform 1s ease-in-out;
+    transition: transform 1s ease-in-out;
+}
+#history-button .icon:hover, #footer-user .buttons .button.settings .icon:hover {
+    -moz-transform: rotate(360deg) !important;
+    -webkit-transform: rotate(360deg) !important;
+    -o-transform: rotate(360deg) !important;
+    transform: rotate(360deg) !important;
+}
+.loading-box .connecting {
+    display: none !Important;
+}
+.loading-box .logo {
+    background-image: url(http://i.imgur.com/kbbYv9u.png) !important;
+    background-size: 640px 362px !Important;
+    height: 362px !Important;
+}
+.loading-box .content {
+    top: -12px !important;
+    height: 413px !Important;
+}
+.loading-box .spinner {
+    margin-top: 23px !Important;
+}
+
+#room-name:hover {
+ cursor: help;
+}
+
+.message.role-manager,
+.emote.role-manager
+{
+    border-left:  #9E6DEA 3px dotted;
+}
+
+.message.role-manager:hover,
+.emote.role-manager:hover
+{
+    border-left-style:  solid;
+    border-right-style: solid;
+}
+
+.message.role-host.emote.role-host
+{
+    border-left:  #2582da 2px dotted;
+    border-right: #2582da 2px dotted;
+}
+
+.message.role-host:hover,
+.emote.role-host:hover
+{
+    border-left-style:  solid;
+    border-right-style: solid;
+}
