@@ -25,13 +25,13 @@
             "user": null
     },
         "images": {
-        "background": "https://cdn.radiant.dj/rcs/bg/15.png",
+        "background": null,
             "playback": null,
             "admin": null,
             "ambassador": null,
-            "host": "http://i.imgur.com/Yd2GSeE.png",
-            "cohost": "http://i.imgur.com/xdBV63C.png",
-            "manager": "http://i.imgur.com/xdBV63C.png",
+            "host": null,
+            "cohost": null,
+            "manager": null,
             "bouncer": null,
             "rdj": "http://i.imgur.com/7W3B6XC.png?1",
             "subscriber": null
