@@ -1,6 +1,6 @@
 {
-    "room": "MFE",
-    "author": "Tessi Tess & THE FALSE",
+    "room": "ChillLT",
+    "author": "Mixas093",
     "css": "https://rawgit.com/MRFALSE/MFE/master/style.css",
     "rules": {
         "allowAutorespond": true,
@@ -13,17 +13,17 @@
         "forceSmartVote": false
     },
     "ccc": {
-        "admin": "#42A5DC",
-        "ambassador": "#89BE6C",
-        "host": "#006eff",
-        "cohost": "#006eff",
-        "manager": "#00c7ff",
-        "bouncer": "#89efff",
+        "admin": "C9C30E",
+        "ambassador": "C9C30E",
+        "host": "C90E0E",
+        "cohost": "FF005E",
+        "manager": "FF445D",
+        "bouncer": "FFA9C0",
         "rdj": "#9bffda",
         "subscriber": null,
         "silversubscriber": null,
         "friend": null,
-        "user": "#777F92"
+        "user": "C87F92"
     },
     "images": {
         "background": null,
@@ -34,7 +34,7 @@
         "cohost": null,
         "manager": null,
         "bouncer": null,
-        "rdj": null,
+        "rdj": "http://i.imgur.com/1bL2OeO.png",
         "subscriber": null,
         "silversubscriber": null
     },
