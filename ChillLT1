@@ -1,0 +1,63 @@
+{
+    "room": "MFE",
+    "author": "Tessi Tess & THE FALSE",
+    "css": "https://rawgit.com/MRFALSE/MFE/master/style.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#42A5DC",
+        "ambassador": "#89BE6C",
+        "host": "#006eff",
+        "cohost": "#006eff",
+        "manager": "#00c7ff",
+        "bouncer": "#89efff",
+        "rdj": "#9bffda",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": "#777F92"
+    },
+    "images": {
+        "background": null,
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    "mfe": "http://i.imgur.com/RR8MUPC.png",
+    "mrfalse": "http://puu.sh/jFGe8/28aa802296.png",
+    "mrfalse2": "http://i.imgur.com/WOx2kL9.png",
+    "danny": "http://i.imgur.com/hHi3NEg.png",
+	"killman":"http://i.imgur.com/Ohh0FOf.png",
+	"siesbicho":"http://i.imgur.com/9oSfhE5.png",
+	"mfebot":"http://i.imgur.com/HXCLejG.png",
+	"nyga":"http://i.imgur.com/tLAvuQ9.png",
+	"polkov":"http://i.imgur.com/6yHNzNI.png",
+	"prasiak":"http://i.imgur.com/afGTQvQ.png",
+	"rohlik":"http://i.imgur.com/G8tPySf.png",
+	"simco":"http://i.imgur.com/NIBxq2R.png",
+	"tessi":"http://i.imgur.com/eOAsWsl.png",
+	"yuno": "http://i.imgur.com/ZXRGDCr.png",
+	"deadend": "http://i.imgur.com/N780j09.png",
+	"mfe2": "http://i.imgur.com/Qxtvhel.png",
+	"mfe3": "http://i.imgur.com/i8CyyAo.png",
+	"mfe4": "http://i.imgur.com/x3e4M8d.png",
+	"samik": "http://i.imgur.com/4LIXaui.png",
+	"doit": "http://i.imgur.com/pOTQbag.png"	
+    }
+}
