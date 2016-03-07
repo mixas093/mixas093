@@ -515,13 +515,20 @@
   color: #3C63FF;
   font-weight: bold;
 }
+body {
+   font-family: 'Open Sans',sans-serif;
+   font-weight: 400;
+   font-size: 14px;
+   background: #000;
+   color: #F00;
+}
 ::-webkit-scrollbar-thumb {
   border-radius: 10px !important;
-  box-shadow: inset 0 0 10px rgba(16, 0, 255, 1) !important;
+  box-shadow: inset 0 0 10px #0a0a0a !important;
 }
 ::-webkit-scrollbar {
   width: 13px !important;
-  background: rgba(0, 0, 0, 0.72) !important;
+  background: #F44040 !important;
 }
 ::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(255, 255, 255, 0.62) !important;
@@ -569,74 +576,12 @@
 	background-size: 15px auto
 }*/
 
-/*ĐAnnY*/
-[data-cid^="4563453-"] .badge-box .bdg {
-    background: url('http://i.imgur.com/guOWP5C.jpg')!important;
-    background-position: 0 0;
-}
-/*Rohlík*/
-[data-cid^="3821094-"] .msg .from .un {
-	position: relative;
-	left:-1px;
-	padding-left:21px;
-	background-image: url(http://i.imgur.com/O1OI87d.gif);
-	background-repeat: no-repeat;
-	background-position: 2px center;
-	background-size: 15px auto
-}
 /*Mixas093*/
 [data-cid^="5515979-"] .msg .from .un {
 	position: relative;
 	left:-1px;
 	padding-left:21px;
 	background-image: url(http://i.imgur.com/O1OI87d.gif);
-	background-repeat: no-repeat;
-	background-position: 2px center;
-	background-size: 15px auto
-}
-
-/*Cookie*/
-[data-cid^="6104025-"] .badge-box .bdg {
-    background: url('http://www.farmingfirst.org/wordpress/wp-content/plugins/ffnewsletter/spinner.gif')!important;
-    background-position: 0 0;
-}
-
-/*SiesBicho*/
-[data-cid^="5069104-"] .msg .from .un {
-	position: relative;
-	left:-1px;
-	padding-left:21px;
-	background-image: url(http://i.imgur.com/O1OI87d.gif);
-	background-repeat: no-repeat;
-	background-position: 2px center;
-	background-size: 15px auto
-}
-/*KillManTV*/
-[data-cid^="5790591-"] .msg .from .un {
-	position: relative;
-	left:-1px;
-	padding-left:21px;
-	background-image: url(http://i.imgur.com/QQlTQhX.png);
-	background-repeat: no-repeat;
-	background-position: 2px center;
-	background-size: 15px auto
-}
-
-/*     VIP     */
-
-
-/*VVAIN*/
-[data-cid^="5154101-"] .badge-box .bdg {
-    background: url('http://i.imgur.com/D9SENIO.png')!important;
-    background-position: 0 0;
-}
-
-/*Psychoušek*/
-[data-cid^="6399726-"] .msg .from .un {
-	position: relative;
-	left:-1px;
-	padding-left:21px;
-	background-image: url(https://cdn.radiant.dj/rcs/icons/translator.png);
 	background-repeat: no-repeat;
 	background-position: 2px center;
 	background-size: 15px auto
