@@ -1,7 +1,7 @@
 {
     "room": "MFE",
     "author": "Tessi Tess & THE FALSE",
-    "css": "https://rawgit.com/mixas093/mixas093/master/Css",
+    "css": "https://rawgit.com/mixas093/mixas093/master/css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
