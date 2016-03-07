@@ -1,7 +1,7 @@
 {
     "room": "MFE",
     "author": "Tessi Tess & THE FALSE",
-    "css": "https://rawgit.com/mixas093/mixas093/master/Css2",
+    "css": "https://rawgit.com/MRFALSE/MFE/master/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -26,7 +26,7 @@
         "user": "#777F92"
     },
     "images": {
-        "background": null,
+        "background": "http://i.imgur.com/u2ivVaX.jpg",
         "playback": null,
         "admin": null,
         "ambassador": null,
@@ -39,10 +39,10 @@
         "silversubscriber": null
     },
     "emotes": {
-    "mfe": "http://i.imgur.com/RR8MUPC.png",
-    "mrfalse": "http://puu.sh/jFGe8/28aa802296.png",
-    "mrfalse2": "http://i.imgur.com/WOx2kL9.png",
-    "danny": "http://i.imgur.com/hHi3NEg.png",
+        "mfe": "http://i.imgur.com/RR8MUPC.png",
+        "mrfalse": "http://puu.sh/jFGe8/28aa802296.png",
+        "mrfalse2": "http://i.imgur.com/WOx2kL9.png",
+        "danny": "http://i.imgur.com/hHi3NEg.png",
 	"killman":"http://i.imgur.com/Ohh0FOf.png",
 	"siesbicho":"http://i.imgur.com/9oSfhE5.png",
 	"mfebot":"http://i.imgur.com/HXCLejG.png",
