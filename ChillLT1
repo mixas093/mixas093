@@ -1,7 +1,6 @@
      {
     "room":                     "ChillLT",
     "author":                   "Mixas093",
-    "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
     "css":                      "https://rawgit.com/mixas093/mixas093/master/CSS",
     "rules": {
         "allowAutorespond":     true,
