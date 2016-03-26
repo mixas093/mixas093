@@ -1,43 +1,46 @@
-{
-    "room": "ChillLT",
-    "author": "Mixas093",
-    "css": "https://rawgit.com/mixas093/mixas093/master/CSS",
+     {
+    "room":                     "ChillLT",
+    "author":                   "Mixas093",
+    "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
+    "css":                      "https://rawgit.com/mixas093/mixas093/master/CSS",
     "rules": {
-        "allowAutorespond": true,
-        "allowAutowoot": true,
-        "allowAutojoin": true,
-        "allowAutograb": true,
-        "allowSmartVote": true,
-        "allowEmotes": true,
-        "allowShowingMehs": true,
-        "forceSmartVote": false
+        "allowAutorespond":     true,
+        "allowAutowoot":        true,
+        "allowAutojoin":        false,
+        "allowAutograb":        true,
+        "allowSmartVote":       true,
+        "allowEmotes":          true,
+        "allowShowingMehs":     true,
+        "forceSmartVote":       false
     },
     "ccc": {
-        "admin": "C9C30E",
-        "ambassador": "C9C30E",
-        "host": "C90E0E",
-        "cohost": "FF005E",
-        "manager": "FF445D",
-        "bouncer": "FFA9C0",
-        "rdj": "#9bffda",
-        "subscriber": null,
-        "silversubscriber": null,
-        "friend": null,
-        "user": "C87F92"
+        "admin":                "#42A5DC",
+        "ambassador":           "#84B423",
+        "host":                 "#FF9B00",
+        "cohost":               "#F3508F",
+        "manager":              "#F3508F",
+        "bouncer":              "#F3508F",
+        "rdj":                  "#5DB4FF",
+        "subscriber":           "#A1A6B3",
+        "silversubscriber":     "#A1A6B3",
+        "friend":               "#B35D88",
+        "user":                 "#8B92A3"
     },
     "images": {
-        "background": null,
-        "playback": null,
-        "admin": null,
-        "ambassador": null,
-        "host": null,
-        "cohost": null,
-        "manager": null,
-        "bouncer": null,
-        "rdj": "http://i.imgur.com/1bL2OeO.png",
-        "subscriber": null,
-        "silversubscriber": null
+        "background":           null,
+        "playback":             null,
+        "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+        "host":                 "https://cdn.radiant.dj/rcs/icons/radiant/host.png",
+        "cohost":               "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
+        "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
+        "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
+        "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "subscriber":           null,
+        "silversubscriber":     "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
     },
+    "autocomplete": [],
     "emotes": {
+        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
     }
 }
