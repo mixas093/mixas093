@@ -3,10 +3,6 @@
     width: 500% !important;
     height: 500% !important;
 }*/
-body {
-    font-family: 'Open Sans',sans-serif;
-    font-weight: 400;
-    font-size: 14px;
-    background: #000;
-    color: #F00;
+#store-button {
+    background: linear-gradient(to bottom,#FF0000 0,#A00000 100%);
 }
