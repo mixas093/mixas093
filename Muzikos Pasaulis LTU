@@ -1,7 +1,7 @@
 {
     "room":                     "LTU",
     "author":                   "Created by greySynapse and donvoo, Maintained by PixelBreeze & TheBanHammer",
-    "css":                      "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css",
+    "css":                      "https://cdn.rawgit.com/mixas093/mixas093/master/css.",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
