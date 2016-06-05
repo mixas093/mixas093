@@ -1,7 +1,7 @@
      {
     "room":                     "Muzikos Pasaulis (LTU)",
     "author":                   "Mixas093",
-    "css":                      "https://rawgit.com/mixas093/mixas093/master/CSS",
+    "css":                      "https://cdn.rawgit.com/mixas093/mixas093/master/cscs",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
