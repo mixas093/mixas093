@@ -3,6 +3,11 @@
 
 / Body /
 
+#room-bar .icon-room {
+    background: url(http://chilloutmusic.fm/img/theme/Icons/www.png);
+}
+
+
 
 #rank-manager .id-5515979  .body 
 {
