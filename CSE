@@ -17,5 +17,5 @@
 {
     width: 30px;
     height: 30px;
-    background: url('http://i.imgur.com/19sUKN5.png?1');
+    background: url("http://i.imgur.com/19sUKN5.png?1") !important;
 }
