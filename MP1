@@ -1,7 +1,7 @@
 {
     "room":                     "LTU",
     "author":                   "Sukure mixas093",
-    "css":                      "https://cdn.rawgit.com/mixas093/mixas093/master/CSE",
+    "css":                      "https://cdn.rawgit.com/mixas093/mixas093/master/CSI",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
