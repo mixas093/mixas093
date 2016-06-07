@@ -19,3 +19,9 @@
     height: 30px;
     background: url("http://i.imgur.com/19sUKN5.png?1") !important;
 }
+
+
+.icon-chat-host, .icon-chat-cohost 
+{
+    background: url("http://i.imgur.com/fFvXD1z.png?1");
+}
