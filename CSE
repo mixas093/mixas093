@@ -1,0 +1,14 @@
+/ Sukūrė Mixas093 /
+
+
+/ Body /
+
+
+rank-manager id-5515979
+body {
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 900;
+    font-size: 14px;
+    background: #000;
+    color: #F00;
+}
