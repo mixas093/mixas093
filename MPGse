@@ -1,7 +1,7 @@
 {
     "room":                     "LTU",
     "author":                   "Sukure mixas093",
-    "css":                      "https://cdn.rawgit.com/mixas093/mixas093/master/CSGs",
+    "css":                      "https://cdn.rawgit.com/mixas093/mixas093/master/CSGse",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
