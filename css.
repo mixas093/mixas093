@@ -1995,6 +1995,16 @@
         background-image:       url('http://i.imgur.com/F9gqHn6.gif');
         background-size:        cover;
 }
+#chat-messages {
+    position: absolute;
+    top: 47px;
+    left: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+    color: #F00;
+    font-size: 12px;
+}
 #chat-messages .id-12386384 
 {
        /* background: linear-gradient(85deg,#1F1232 0,#111317 33%,#111317 100%) !important;*/
