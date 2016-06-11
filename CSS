@@ -1,10 +1,14 @@
-/*.room-background {
-    background: url(https://cdn.radiant.dj/rcs/radiant.music.nov1.jpg) no-repeat !important;
-    width: 500% !important;
-    height: 500% !important;
-}*/
 #store-button {
     background: linear-gradient(to bottom,#FF0000 0,#A00000 100%);
+}
+
+#icon icon-store-white
+ body {
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    background: #f00;
+    color: #f00;
 }
 
 #chat-messages .id-5515979 .badge-box i.bdg {
