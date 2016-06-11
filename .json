@@ -1,7 +1,7 @@
 {
     "room":                     "LTU",
     "author":                   "Sukure mixas093",
-    "css":                      "https://drivenotepad.github.io/app/?state={"action":"open","ids":["0BxWbXyomz3xNY055cWxjeWh2UFE"]}",
+    "css":                      "https://raw.githubusercontent.com/mixas093/mixas093/master/.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
