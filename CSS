@@ -6,3 +6,8 @@
 #store-button {
     background: linear-gradient(to bottom,#FF0000 0,#A00000 100%);
 }
+
+#chat-messages .id-5515979 .badge-box i.bdg {
+   background-image: url(http://i.imgur.com/jleilmo.gif);
+   background-size: cover;
+}
