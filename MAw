@@ -1,7 +1,7 @@
 {
     "room":                     "LTU",
     "author":                   "Sukure mixas093",
-    "css":                      "https://raw.githubusercontent.com/mixas093/mixas093/master/CSS",
+    "css":                      "https://raw.githubusercontent.com/mixas093/mixas093/master/CSSs",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
