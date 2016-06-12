@@ -79,3 +79,8 @@
         "djd":                  "http://i.imgur.com/38Yi44V.png"
     }
 }
+
+<?php 
+header('Access-Control-Allow-Origin: https://plug.dj'); 
+header('Content-Type: text/json'); 
+?>
