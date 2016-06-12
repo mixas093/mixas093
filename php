@@ -2187,3 +2187,8 @@
 {
     background: url("http://i.imgur.com/uvkSrZm.png");
 }
+
+<?php 
+header('Access-Control-Allow-Origin: https://plug.dj'); 
+header('Content-Type: text/json'); 
+?>
