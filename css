@@ -1,0 +1,410 @@
+.icon-site-logo {
+background: url('https://i.imgur.com/oajiYl5.png') repeat scroll 0% 0% transparent;
+background-position: -5px 0px;
+}
+#room .app-right {
+opacity: 0.86 !important;
+}            
+#room .app-header {
+opacity: 0.86 !important;
+background-color: rgba(28, 31, 37, 0.86);
+}
+#room .header-panel-bar {
+background: rgba(28, 31, 37, 0.75);
+}
+#room .history-button {
+background-color: rgba(28, 31, 37, 0.75);
+}
+#room .plug-menu {
+background-color: rgba(40, 44, 53, 0.94) !important;
+}
+#room .plug-menu .legal {
+background-color: rgba(68, 74, 89, 0.46) !important;
+}
+#room .settings {
+background-color: rgba(10, 10, 10, 0.89) !important;
+}
+#room .settings .header {
+background-color: rgba(28, 31, 37, 0.78) !important;
+}
+#chat {
+background-color: rgba(10, 10, 10, 0.75);
+}
+#dj-button {
+background-color: rgba(40, 44, 53, 0.75) !important;
+}
+#chat .message:nth-child(2n+1),#chat .mention:nth-child(2n+1),#chat .skip:nth-child(2n+1),#chat .moderation:nth-child(2n+1),#chat .emote:nth-child(2n+1),#chat .update:nth-child(2n+1),#chat .welcome:nth-child(2n+1) {
+background-color: rgba(17, 19, 23, 0.32);
+}
+#chat .mention {
+background-color: rgba(53, 75, 124, 0.22) !important;
+font-weight: 700;
+padding-left: 1px;
+border-left: #ac76ff 3px solid;
+}
+#chat .update .text {
+color: #00FF4A;
+}
+#chat-messages {
+}
+#chat-input-field {
+}
+#chat-messages .msg img {
+display: inherit !important;
+clear: both;
+}
+#chat-messages .msg video {
+display: inherit !important;
+}            
+#chat-messages .timestamp {
+right: 5px;
+top: 5px;
+position: absolute;
+text-align: right;
+}
+#chat-messages .clickable {
+margin-bottom: 0px;
+}
+#chat .from {
+float: left;
+display: inline-block;
+z-index: 2;
+margin-bottom: 0px;
+position: initial;
+margin-right: 5px;
+}
+#chat .emote, #chat .mention, #chat .message, #chat .moderation, #chat .skip, #chat .system, #chat .update, #chat .welcome {
+min-height: initial;
+}
+#chat .msg {
+padding: 5px 8px 6px 15px;
+}
+#chat .msg .from {
+height: 16px;
+}
+#chat-messages .text {
+z-index: 1;
+display:block;
+padding-right: 40px;
+position: initial;
+padding-left: 0;
+}
+#chat-messages .text table {
+margin-top: 20px;
+width: 100%;
+}
+#chat-messages span.text {
+display:block;
+}
+#chat-messages .userspace-chatalert .text a {
+padding-left: 0px;
+z-index: 3;
+}
+#chat-messages .from .icon {
+width: 14px;
+height: 14px;
+top: 0px;
+}
+#chat .fromID-placeholder .un {
+margin-top: -3px;
+float: left;
+}
+#chat-messages .cm.promo {
+display: none !important;
+}            
+#chat .badge-box {
+color: #1C1F25;
+width: 0px;
+height: 0px;
+border-radius: 0px;
+}
+#chat-messages .userspace-chatalert .badge-box {
+position: absolute !important;
+width: 30px !important;
+height: 30px !important;
+}
+#chat-messages .userspace-chatalert {
+float: none !important;
+display: block;
+} 
+#chat-messages .userspace-chatalert span.timestamp {
+display: inline !important;
+position: absolute !important;
+column-count: initial;
+width: auto;
+}
+#chat-messages .userspace-chatalert .msg {
+padding-left: 40px;
+}
+#chat-messages .userspace-chatalert .from {
+float: none !important;
+display: block !important;
+padding-left: 5px !important;
+}
+#chat-messages .userspace-chatalert.senpai .icon {
+background-position: 0 0 !important;
+background: url(https://i.imgur.com/fWkM6c9.png) !important;
+padding-left: 10px;
+}
+#chat .badge-box .no-badge .rsshit.sml .badge-box.no-badge {
+background-image: url('') !important;
+}
+#chat .icon .icon-p3 {
+background-image: url('') !important;
+}
+#chat .bdg {
+background-image: url('') !important;
+}
+#footer {
+background-color: rgba(0, 0, 0, 0.5) !important;
+}
+#footer-user .info {
+background-color: rgba(0, 0, 0, 0.8) !important;
+}
+#your-next-media .eta.dark-label {
+color: rgba(230, 219, 219, 1) !important;
+}
+.social-menu .icon-twitter,.social-menu .icon-facebook {
+opacity: 9;
+}
+.social-menu .icon-twitter {
+background-image: url('https://i.imgur.com/Mw0Psat.png') !important;
+background-position: 1px 0px;
+}
+.icon.icon-facebook {
+background-image: url('https://i.imgur.com/VfuvHLu.png') !important;
+background-position: 1px 0px;
+}
+#user-meta {
+color: #FFF;
+}
+#user-meta .label {
+color: #FFF;
+}
+#user-meta .avatar-thumb {
+background-color: rgba(255, 255, 255, 0.1);
+}
+#user-panel .score {
+background: rgba(28, 31, 37, 0.59);
+}
+#dj-button.is-locked .left,#dj-button.is-full .left,#vote .crowd-response.disabled .bottom {
+background: rgba(68, 74, 89, 0.75);
+}
+#dj-button.is-quit .left,#dj-button.is-leave .left,#playlist-delete-button:hover {
+background: linear-gradient(to bottom,rgba(244, 107, 64, 0.74) 0,rgba(240, 79, 48, 0.75) 100%);
+}
+#chat .emote, #chat .mention, #chat .message {
+-moz-animation: fadein 0.33s;
+-ms-animation: fadein 0.33s;
+-o-animation: fadein 0.33s;
+-webkit-animation: fadein 0.33s;
+animation: fadein 0.33s;
+background-color: #0E0E0F;
+}
+#chat .message:hover, #chat .emote:hover, #chat .update:hover {
+-moz-transition: 100ms linear 50ms;
+-o-transition: 100ms linear 50ms;
+-webkit-transition: 100ms linear 50ms;
+border-left: #FFFFFF 3px solid;
+padding-left: 3px;
+text-decoration: none;
+transition: 100ms linear 50ms;
+}
+#chat .moderation:hover {
+-moz-transition: 100ms linear 50ms;
+-o-transition: 100ms linear 50ms;
+-webkit-transition: 100ms linear 50ms;
+border-left: #ac76ff 3px solid;
+padding-left: 3px;
+text-decoration: none;
+transition: 100ms linear 50ms;
+}                       
+#chat [data-cid|='3560664'].emote {
+border-left: #FF9900 3px solid !important;
+background-color: rgba(53, 75, 124, 0.22) !important;
+}
+#chat .rsshit.sml.rs-log-song-stats .badge-box, #chat .rsshit.sml.rs-log-now-playing .badge-box {
+ display:none;
+}
+#chat .rsshit.sml.rs-log-song-stats .from , #chat .rsshit.sml.rs-log-now-playing .from  {
+ float:right;
+}
+ #chat .rsshit.sml .badge-box {
+ display:none;
+color: #1C1F25;
+width: 0px;
+height: 0px;
+border-radius: 0px;
+}
+#chat .delete-button {
+  font-size: 8px !important;
+  padding: 4px;
+  top: -12px;
+  text-indent: 9999px;
+  white-space: nowrap;
+  width: 10px;
+  top: auto;
+}
+#volume .slider {
+ display: block !important;
+}
+#chat .delete-button:before {
+  position: absolute;
+  content: "x";
+  display: inline-block;
+  text-indent: 0px;
+  font-size: 12px;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  text-align: center;
+}
+#chat-messages .kouhai .text, #chat-messages .senpai .text {
+ padding-right:0;
+}
+#chat .rsshit.context .timestamp, #chat .moderation .timestamp {
+ display:none !important;
+ }
+ #chat .rsshit.sml.context .msg .text, #chat .moderation .msg .text {
+ margin-left:0;
+ }
+ #chat .moderation .un {
+ padding-right:3px;
+ }
+ /*#chat .message:hover .msg, #chat .emote:hover .msg, #chat .update:hover .msg {
+ padding: 5px 3px 6px 15px;
+ transition: 100ms linear 50ms;
+}*/
+/*#chat [data-cid|='3560664'].emote {
+display: none;
+}*/
+#chat .rsshit.sml.rs-log-song-stats .badge-box, #chat .rsshit.sml.rs-log-song-stats .from .timestamp, #chat .rsshit.sml.rs-log-now-playing .badge-box, #chat .rsshit.sml.rs-log-now-playing .from .timestamp {
+ display:none;
+}
+#chat .rsshit.sml.rs-log-song-stats .text, #chat .rsshit.sml.rs-log-now-playing .text {
+ font-weight:inherit;
+ color:#F6FF74;
+}
+#chat .from:hover .rcs-user-info {
+  z-index: 9999;
+  display: inline-block;
+}
+#chat .rcs-user-info {
+  position: absolute;
+  z-index: 0;
+  padding: 5px 0px;
+  box-shadow: inset 0 0 0 1px #a5dc42;
+  background: #282c35;
+  width: 120px;
+  text-align: center;
+  display: none;
+  right: 0;
+  left: 100%;
+  margin-left: 0;
+  top: -4px;
+}
+/* The following is a shitty hack that turns off user info under certain conditions due to User Info being displayed oddly when clicking on "user joined" messages. (After some changes on our end.)*/
+#chat .rsshit.context .from:after{
+    content: '';
+    position: absolute;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    background: transparent;
+}
+#chat [data-cid|='3560664'].emote {
+color: #FF9900 !important;
+}
+#chat [data-cid|='3560664'].emote .text {
+font-style: normal;
+font-weight: bold;
+color: #FFFFFF !important;
+}
+[data-cid|="3560664"] .msg .from .icon-chat-manager {
+background-image: url('https://i.imgur.com/DO20H9J.png') !important;
+}
+a[href='http://nyanpass.com'], a[href='http://nyanpass.com/'], a[href='http://www.nyanpass.com'], a[href='www.nyanpass.com/'], a[href='http://www.nyanpass.com/'], a[href='www.nyanpass.com'] {
+display: inline-block;
+width: 161px;
+height: 119px;
+background: url('https://i.imgur.com/JySnHN1.gif') no-repeat;
+text-indent: -1000px;
+}
+/*
+@-moz-keyframes fadein {
+from {opacity: 0;}
+to {opacity: 1;}
+}
+@-ms-keyframes fadein {
+from {opacity: 0;}
+to {opacity: 1;}
+}
+@-o-keyframes fadein {
+from {opacity: 0;}
+to {opacity: 1;}
+}
+@-webkit-keyframes fadein {
+from {opacity: 0;}
+to {opacity: 1;}
+}
+@keyframes fadein {
+from {opacity: 0;}
+to {opacity: 1;}
+}*/
+/*  
+body {
+background-size: 100% auto !important;
+background-attachment: fixed 0px 0px !important
+}*/
+#now-playing-media .bar-value{
+    display:inline-block;
+}
+#now-playing-media:hover .bar-value{
+    -webkit-animation:ticker infinite linear 25s;
+    -moz-animation:ticker infinite linear 25s;
+    -ms-animation:ticker infinite linear 25s;
+    -o-animation:ticker infinite linear 25s;
+    animation:ticker infinite linear 25s;
+}
+#now-playing-media {
+text-overflow: initial;
+}
+@keyframes ticker {
+    0% {
+        -webkit-transform:translate3d(0, 0, 0);
+        -moz-transform:translate3d(0, 0, 0);
+        -ms-transform:translate3d(0, 0, 0);
+        -o-transform:translate3d(0, 0, 0);
+        transform:translate3d(0, 0, 0);
+    }
+    100% {
+        -webkit-transform:translate3d(-100%, 0, 0);
+        -moz-transform:translate3d(-100%, 0, 0);
+        -ms-transform:translate3d(-100%, 0, 0);
+        -o-transform:translate3d(-100%, 0, 0);
+        transform:translate3d(-100%, 0, 0);
+    }
+}
+#playlist-media-first-item .now-playing {
+background: #56348C !important;
+border-bottom: #9366da !important;
+}
+#dj-booth {
+background: url('https://i.imgur.com/w5S4r1D.png') no-repeat 0px 135px;
+left: 265px;
+}
+#dj-canvas {
+margin-left: -30px;
+}
+.room-background {
+  left: 0 !important;
+}
+.room-background i{
+  display: none;
+}
+#app {
+background-image: url('https://i.imgur.com/dN9a5Ov.jpg');
+background-size: cover !important;
+}
