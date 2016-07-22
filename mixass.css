@@ -1019,7 +1019,9 @@
 #user-inventory .history .row .col {box-shadow: -1px 0 0 0 hsl(210,50%,20%) !important;}
 #user-inventory .history .jspPane .row {border-color: hsl(210,50%,20%); !important}
 
--#chat-messages .id-5515979 .badge-box i.bdg {
- -   background-image: url(http://i.imgur.com/jleilmo.gif);
- -   background-size: cover;
- -}
+ /* Mixas093 */
+#chat-messages .id-5515979 .badge-box i.bdg
+{
+        background-image:       url('https://i.imgur.com/fZMzTOM.png');
+        background-size:        cover;
+}
