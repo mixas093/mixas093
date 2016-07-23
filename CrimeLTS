@@ -2,7 +2,7 @@
   "room":   "CRIME.LT",
   "author": "Mixas093",
   "icon":   "http://i.imgur.com/7yDfpYu.png",
-  "css":    "https://rawgit.com/mixas093/mixas093/master/mixaas.css",
+  "css":    "https://rawgit.com/mixas093/mixas093/master/CrimeLT.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot":    true,
