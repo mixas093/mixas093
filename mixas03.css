@@ -1035,3 +1035,9 @@
     color:    #00FF7F;
     font-size: 14px;
 }
+
+#chat-messages .id-16514016 .badge-box i.bdg
+{
+        background-image:       url('http://i.imgur.com/xB7CroT.png');
+        background-size:        cover;
+}
