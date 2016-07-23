@@ -1025,3 +1025,8 @@
         background-image:       url('https://i.imgur.com/fZMzTOM.png');
         background-size:        cover;
 }
+
+#chat-messages .id-5515979 {
+    color: #f00;
+    font-size: 14px;
+}
