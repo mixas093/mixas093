@@ -1027,6 +1027,11 @@
 }
 
 #chat-messages .id-5515979 {
-    color: #f00;
+    color:    #f00;
+    font-size: 14px;
+}
+  /* ItsMatux */
+#chat-messages .id-5429602 {
+    color:    #00FF7F;
     font-size: 14px;
 }
