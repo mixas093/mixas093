@@ -1042,7 +1042,18 @@
         background-size:        cover;
 }
 
-#content
-{
-        color: rgba(0, 255, 10, 0.75);
+body {
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    background: #000;
+    color: rgba(0, 255, 198, 0.7);
+}
+
+#body {
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    background: #000;
+    color: rgba(0, 255, 198, 0.7);
 }
