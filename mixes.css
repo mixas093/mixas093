@@ -1061,3 +1061,12 @@ body {
 #src="https://cdn.plug.dj/_/static/images/avatars/hiphop05b.d2e8b17eb3d56979d40862f153fb3c29eb3f680b.png" {
            src="http://i.imgur.com/UJoZNsf.png"
 }
+
+#chat .Mixas {
+	background: "http://i.imgur.com/yc2tLr6.png"
+	
+}
+#chat-messages .text.Mixas {
+    position: relative;
+    background: "http://i.imgur.com/yc2tLr6.png";
+}
