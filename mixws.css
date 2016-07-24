@@ -1074,3 +1074,36 @@ body {
 #emotes {
     "Mixas": "http://i.imgur.com/xB7CroT.png"
   }
+  
+#user-menu .item.selected, #room-settings-menu .item.selected {
+    background: linear-gradient(hsl(163, 98%, 45%), hsla(291, 100%, 50%, 0.64));
+    box-shadow: 10px 1px hsla(0, 0%, 0%, 0.4);
+}
+#room-settings .general-settings .option button.off {
+    margin-left: 10px;
+    background: #009cdd;
+    color: rgba(0, 255, 198, 0.84);
+}
+#room-settings .general-settings .option.enabled>button.on {
+    background: #f04f30;
+    color: rgba(255, 0, 0, 0.78);
+}
+
+#user-menu, #room-settings-menu, #playlist-menu {
+    background: linear-gradient(to right, hsla(288, 100%, 50%, 0.48), hsla(172, 100%, 50%, 0.2));
+}
+#avi-avi-hiphop05 #i.avi.avi-hiphop05 {
+    width: 150px;
+    height: 150px;
+    background: url('http://i.imgur.com/YexlgSj.jpg');
+}
+#i.avi.avi-hiphop05 {
+    width: 150px;
+    height: 150px;
+    background: url('http://i.imgur.com/YexlgSj.jpg');
+}
+i.avi.avi-hiphop05 {
+    width: 150px;
+    height: 150px;
+    background: url('http://i.imgur.com/YexlgSj.jpg');
+}
