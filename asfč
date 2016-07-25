@@ -1,0 +1,37 @@
+{
+   "room": "Muzika Tavo Ausims",
+   "author": "Likuxas",
+   "css": ""
+   "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+     "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#006eff",
+        "cohost": "#006eff",
+        "manager": "#00c7ff",
+        "bouncer": "#89efff",
+        "rdj": "#7dceb0",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": "#618b94"
+    },
+    "images": {
+        "background": "https://i.imgur.com/o8U69An.jpg",
+        "host": "https://nbot.lt/mta-images/co-host.png",
+        "cohost": "https://nbot.lt/mta-images/co-host.png",
+        "manager": "https://nbot.lt/mta-images/manager.png",
+        "bouncer": "https://nbot.lt/mta-images/bouncer.png",
+        "rdj": "https://nbot.lt/mta-images/rdj-new.png"
+   }
+   
+}
