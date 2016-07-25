@@ -1,7 +1,7 @@
 {
    "room": "Muzika Tavo Ausims",
    "author": "Likuxas",
-   "css": ""
+   "css": "https://cdn.rawgit.com/mixas093/mixas093/edit/master/Mix.css"
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
