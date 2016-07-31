@@ -1,0 +1,12 @@
+ /* Mixas093 */
+#chat-messages .id-5515979 .badge-box i.bdg
+{
+        background-image:       url('http://www.flagsofallcountries.com/European_Union/Lithuania/lithuania_fb_mw.gif');
+        background-size:        cover;
+}
+
+#chat-messages .id-5515979 {
+    color:    #f00;
+    font-size: 14px;
+    font-family: "Impact";
+}
