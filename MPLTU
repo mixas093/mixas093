@@ -1,0 +1,37 @@
+{
+   "room": "Muzikos Pasaulis",
+   "author": "Santa",
+   "css": ""
+   "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+     "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#CD8CBE",
+        "cohost": "#7DE183",
+        "manager": "#6771FC",
+        "bouncer": "#F75606",
+        "rdj": "#EFFF00",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "https://i.imgur.com/xz6LyOh.png",
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null
+   }
+   
+}
