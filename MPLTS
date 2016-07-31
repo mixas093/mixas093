@@ -1,7 +1,7 @@
 {
    "room": "Muzikos Pasaulis",
    "author": "Santa",
-   "css": "https://cdn.rawgit.com/mixas093/mixas093/master/Mix.css",
+   "css": "https://cdn.rawgit.com/mixas093/mixas093/master/Miix.css",
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
