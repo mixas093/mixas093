@@ -1,5 +1,5 @@
 {
-  "room":   "CRIME.LT",
+  "room":   "EmilyLT",
   "author": "Mixas093",
   "icon":   "http://i.imgur.com/7yDfpYu.png",
   "css":    "https://rawgit.com/mixas093/mixas093/master/mixo1.css",
@@ -27,7 +27,7 @@
     "user":             null
   },
   "images": {
-    "background":       "https://raw.githubusercontent.com/Plug-It/pi/master/images/background/default/FEDMC.jpg",
+    "background":       "http://i.imgur.com/WTylHRy.png",
     "playback":         null,
     "admin":            null,
     "ambassador":       null,
