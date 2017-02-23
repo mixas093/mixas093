@@ -1115,8 +1115,17 @@ i.avi.avi-hiphop05 {
 	<img src="http://i.imgur.com/RISLk7A.png">
 }
 #twitter-menu {
-    right: 99px;
-    top: -450px;
-    background-image: url(http://www.animatedimages.org/data/media/384/animated-loudspeaker-image-0005.gif);
-    width: 97px;
-    height: 95px;
+    right: 81px;
+    top: -530px;
+    background-image: url(https://media.giphy.com/media/CnVSvvHyslUkM/giphy.gif);
+    border-style: inset;
+    width: 144px;
+    height: 243px;
+}
+
+.social-menu ul {
+    width: 100%;
+    overflow: hidden;
+    visibility: hidden;
+    list-style-type: none;
+}
