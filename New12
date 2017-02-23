@@ -2,7 +2,7 @@
   "room":   "EmilyLT",
   "author": "Mixas093",
   "icon":   "http://i.imgur.com/7yDfpYu.png",
-  "css":    "https://rawgit.com/mixas093/mixas093/master/mixo1.css",
+  "css":    "https://rawgit.com/mixas093/mixas093/master/mixso.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot":    true,
