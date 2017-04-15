@@ -1,8 +1,8 @@
 {
-  "room":   "EmilyLT",
+  "room":   "Lietuvėnai 😵",
   "author": "Mixas093",
   "icon":   "http://i.imgur.com/7yDfpYu.png",
-  "css":    "https://rawgit.com/mixas093/mixas093/master/mixso.css",
+  "css":    "",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot":    true,
@@ -27,20 +27,20 @@
     "user":             null
   },
   "images": {
-    "background":       "http://i.imgur.com/WTylHRy.png",
+    "background":       "https://cdn.radiant.dj/rcs/bg/2k15rtreesmusic.jpg",
     "playback":         null,
     "admin":            null,
     "ambassador":       null,
-    "host":             "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/rank_host.png",
-    "cohost":           "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/rank_cohost.png",
-    "manager":          "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/rank_manager.png",
-    "bouncer":          "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/rank_bouncer.png",
-    "rdj":              "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/rank_dj.png",
-    "subscriber":       "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/crown.png",
+    "host":             "",
+    "cohost":           "",
+    "manager":          "",
+    "bouncer":          "",
+    "rdj":              "",
+    "subscriber":       "",
     "silversubscriber": null
   },
   "autocomplete": [],
   "emotes": {
-    "Mixas": "http://i.imgur.com/yc2tLr6.png"
+
   }
 }
