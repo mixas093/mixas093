@@ -1,0 +1,40 @@
+{
+    "room":                     "Lietuvenai",
+    "author":                   "mixas093",
+    "css":                      "https://raw.githubusercontent.com/mixas093/mixas093/master/liets.css",
+    "rules": {
+        "allowAutorespond":     true,
+        "allowAutowoot":        true,
+        "allowAutojoin":        true,
+        "allowAutograb":        true,
+        "allowSmartVote":       true,
+        "allowEmotes":          true,
+        "allowShowingMehs":     false,
+        "forceSmartVote":       false
+    },
+    "ccc": {
+        "admin":                null,
+        "ambassador":           null,
+        "host":                 "#87449c",
+        "cohost":               "#87449c",
+        "manager":              "#7854a9",
+        "bouncer":              "#626cbc",
+        "rdj":                  "#547bc9",
+        "subscriber":           null,
+        "friend":               null,
+        "user":                 null
+    },
+    "images": {
+        "background": "https://i.imgur.com/o8U69An.jpg",
+        "host": "https://nbot.lt/mta-images/co-host.png",
+        "cohost": "https://nbot.lt/mta-images/co-host.png",
+        "manager": "https://nbot.lt/mta-images/manager.png",
+        "bouncer": "https://nbot.lt/mta-images/bouncer.png",
+        "rdj": "https://nbot.lt/mta-images/rdj-new.png",
+        "subscriber":           null,
+    },
+    "autocomplete": [],
+    "emotes": {
+    
+    }
+}
