@@ -1,7 +1,7 @@
 {
-   "room": "MZK",
-   "author": "Mixas",
-   "css": "https://cdn.rawgit.com/mixas093/mixas093/master/.css"
+   "room": "ltt",
+   "author": "Mixas093",
+   "css": "https://raw.githubusercontent.com/mixas093/mixas093/master/lietuvenaii.css"
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
