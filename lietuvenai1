@@ -27,11 +27,16 @@
     },
     "images": {
         "background": "https://cdn.radiant.dj/rcs/bg/2k15rtreesmusic.jpg",
-        "host": null,
-        "cohost": null,
-        "manager": null,
-        "bouncer": null,
-        "rdj": null,
+    "playback":         null,
+    "admin":            null,
+    "ambassador":       null,
+    "host":             "",
+    "cohost":           "",
+    "manager":          "",
+    "bouncer":          "",
+    "rdj":              "",
+    "subscriber":       "",
+    "silversubscriber": null
    }
    
 }
