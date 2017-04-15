@@ -1,7 +1,7 @@
 {
     "room":                     "Lietuvenai",
     "author":                   "mixas093",
-    "css":                      "https://raw.githubusercontent.com/mixas093/mixas093/master/liets.css",
+    "css":                      "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css?v=1",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
