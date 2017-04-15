@@ -1015,3 +1015,17 @@
 #user-inventory .history .row:nth-last-child(1) .item {border-radius: 0 0 0 20px;}
 #user-inventory .history .row .col {box-shadow: -1px 0 0 0 hsl(210,50%,20%) !important;}
 #user-inventory .history .jspPane .row {border-color: hsl(210,50%,20%); !important}
+
+ /* Mixas093 */
+#chat-messages .id-5515979 .badge-box i.bdg
+{
+        background-image:       url('http://www.flagsofallcountries.com/European_Union/Lithuania/lithuania_fb_mw.gif');
+        background-size:        cover;
+}
+
+ /* Lialia */
+#chat-messages .id-4729596 .badge-box i.bdg
+{
+        background-image:       url('https://cdn.plug.dj/_/static/images/badges/nycb-e01_big.99bf4e38-7193-446f-b8dc-f824c73239ca.gif');
+        background-size:        cover;
+}
