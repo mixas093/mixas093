@@ -1,7 +1,7 @@
 {
    "room": "lietuvenai",
    "author": "Mixas093",
-   "css": "https://cdn.rawgit.com/mixas093/mixas093/e4e2c1c4/liets.css",
+   "css": "https://cdn.rawgit.com/mixas093/mixas093/e4e2c1c4/liets1.css",
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
