@@ -1017,11 +1017,16 @@
 #user-inventory .history .jspPane .row {border-color: hsl(210,50%,20%); !important}
 
  /* Mixas093 */
+
 #chat-messages .id-5515979 .badge-box i.bdg
 {
         background-image:       url('http://www.flagsofallcountries.com/European_Union/Lithuania/lithuania_fb_mw.gif');
         background-size:        cover;
 	color: #ff0000;
+}
+#chat-messages div.text.cid-551979-1519588649535
+{	
+	color: #ff0000;	
 }
  /* Lialia */
 #chat-messages .id-4729596 .badge-box i.bdg
