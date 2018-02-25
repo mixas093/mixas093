@@ -1021,11 +1021,8 @@
 {
         background-image:       url('http://www.flagsofallcountries.com/European_Union/Lithuania/lithuania_fb_mw.gif');
         background-size:        cover;
+	color: #ff0000;
 }
-#chat-messages .id-5515979 {
-	   color: #007eff;
-	}
-
  /* Lialia */
 #chat-messages .id-4729596 .badge-box i.bdg
 {
