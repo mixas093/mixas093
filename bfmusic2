@@ -1,7 +1,7 @@
 {
    "room": "bfmusic",
    "author": "Mixas093",
-   "css": "https://rawgit.com/mixas093/mixas093/master/bfmusic.css",
+   "css": "https://rawgit.com/mixas093/mixas093/master/bfmusics.css",
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
