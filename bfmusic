@@ -1,7 +1,7 @@
 {
-   "room": "lietuvenai",
+   "room": "bfmusic",
    "author": "Mixas093",
-   "css": "https://rawgit.com/mixas093/mixas093/master/liets2.css",
+   "css": "https://rawgit.com/mixas093/mixas093/master/bfmusic.css",
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -26,7 +26,7 @@
         "user": "#618b94"
     },
     "images": {
-        "background": "https://cdn.radiant.dj/rcs/bg/2k15rtreesmusic.jpg",
+        "background": "hhttps://i.imgur.com/RIzme96.jpg",
     "playback":         null,
     "admin":            null,
     "ambassador":       null,
